@@ -7,6 +7,6 @@ body {
     font-family: "Comic Sans MS", "Comic Sans", cursive;
     background-image: url("https://i.ytimg.com/vi/PObLY87wyIU/maxresdefault.jpg");
     background-repeat: no-repeat;
-     background-position: center;
+    background-position: center center;
     background-attachment: fixed;
     }
